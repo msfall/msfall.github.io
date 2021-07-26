@@ -8,4 +8,4 @@ Couse work on time series decomposition completed in my CTBA course at William &
 - [TimeSeries (ipynb)](TimeSeries.ipynb)
 
 Jupyter Generated Time Series graph from another CTBA assignment. 
-- [Construction Cost plot (jpg)](ConstCostPlot.jpg)
+- [Construction Cost plot (jpg)](https://github.com/msfall/msfall.github.io/tree/main/Pictures)
