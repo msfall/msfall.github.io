@@ -7,4 +7,4 @@ I have provided assignments specifically related to time series analysis, that I
 -  [TimeSeries](/TimeSeries/index.md)
 
 Link to second Repository 
-- [Mariam Portfolion Repository](https://github.com/msfall/mariamportfolio)
+- [Mariam Portfolio Repository](https://github.com/msfall/mariamportfolio)
